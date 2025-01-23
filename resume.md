@@ -4,3 +4,4 @@
 
 ## Education
 - High School Graduate
+- Co School of Mines
